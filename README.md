@@ -1,0 +1,2 @@
+# Lab2
+# This is the file for Lab 2 made by Julia Näsström, please note that I have discussed my solutions together w/ my labpartner Maryam Khan though so there might be similarities with our solutions, but then again in how many ways can one solve the same problem without there being any?? We did not understand what individual meant? Is it that we have to work compleatly on our own or is it just the presentation of the code???? 

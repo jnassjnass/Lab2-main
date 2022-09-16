@@ -316,5 +316,3 @@ function deepFreeze(object) {
 }
 
 deepFreeze(dishesConst);
-
-exports.dict = dishesConst;
